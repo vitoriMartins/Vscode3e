@@ -26,3 +26,13 @@ body{
     width: 100%;
     font-size: 32px;
 }
+.botao{
+    font-family: "chakra petch", sans-serif;
+    background-color: var(--botao-ativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    align-items: center;
+    width: 100%;
+}
